@@ -15,8 +15,7 @@ For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 #output
-![Screenshot 2023-07-01 151317](https://github.com/kirankumar2001/netflix-cloneUi/assets/110237758/ce222ee6-1a19-43eb-b2eb-4af81a884dec)
-399cb)
+
 a)![Screenshot 2023-07-01 151339](https://github.com/kirankumar2001/netflix-cloneUi/assets/110237758/57d4d184-9ea8-4529-9541-f39746f235a8)
 ![Screenshot 2023-07-01 151339](https://github.co![Screenshot 2023-07-01 151147](https://github.com/kirankumar2001/netflix-cloneUi/assets/110237758/cefb4ad6-6340-4cbd-ba28-99d50fd92502)
 m/kirankumar2001/netflix-cloneUi/assets/110237758/0233ba6f-779b-445f-8d1e-d04bc752d7d6)
